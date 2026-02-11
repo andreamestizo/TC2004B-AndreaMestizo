@@ -1,0 +1,24 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Andrea Mestizo Hernández
+Matrícula: A01735773
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Este curso es el primero que ya es de mi carrera, y aunque es un curso obligatorio
+se me hace súper interesante poder empezar a ver aplicaciones reales y entender lo que
+es data science. 
+
+¿Qué espero aprender?
+Espero entender más acerca de mi carrera y aprender a interpretar datos correctamente,
+mejorando mis skills tanto de programación como de interpretación y mejorando mi
+pensamiento crítico.
+
+Herramientas que ya conozco:
+- Python
+- Git
+
+Herramientas nuevas para mí:
+- Jupyter Notebooks 
+- Markdown
