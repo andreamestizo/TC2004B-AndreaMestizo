@@ -70,6 +70,8 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+*Si el navegador abre automaticamente una ventana no disponible, 
+abre el link que aparece con el token
 
 Navega a `notebooks/` y abre el .ipynb
 
