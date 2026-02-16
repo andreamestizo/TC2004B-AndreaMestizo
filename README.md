@@ -2,6 +2,7 @@
 
 **Nombre:** Andrea Mestizo Hernández  
 **Matrícula:** A01735773
+
 **Semestre:** Febrero-Junio 2026
 
 ## Descripción
